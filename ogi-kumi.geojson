@@ -9,7 +9,6 @@
         "stroke-opacity": 1,
         "fill": "#C2EEFF",
         "fill-opacity": 0.5,
-        "name": "7組",
         "title": "7組"
 },
       "geometry": {
@@ -104,7 +103,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "6組"
+        "title": "6組"
       },
       "geometry": {
         "type": "Polygon",
@@ -270,7 +269,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "5組"
+        "title": "5組"
       },
       "geometry": {
         "type": "Polygon",
@@ -392,7 +391,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "4組"
+        "title": "4組"
       },
       "geometry": {
         "type": "Polygon",
@@ -510,7 +509,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "3組"
+        "title": "3組"
       },
       "geometry": {
         "type": "Polygon",
@@ -632,7 +631,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "2組"
+        "title": "2組"
       },
       "geometry": {
         "type": "Polygon",
@@ -734,7 +733,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "10組"
+        "title": "10組"
       },
       "geometry": {
         "type": "Polygon",
@@ -872,7 +871,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "9組"
+        "title": "9組"
       },
       "geometry": {
         "type": "Polygon",
@@ -994,7 +993,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "8組"
+        "title": "8組"
       },
       "geometry": {
         "type": "Polygon",
@@ -1080,7 +1079,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "1組"
+        "title": "1組"
       },
       "geometry": {
         "type": "Polygon",
